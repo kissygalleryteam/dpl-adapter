@@ -1,0 +1,1 @@
+KISSY.config("requires",{"kg/dpl-adapter/0.0.2/index":["cookie","json","kg/xtemplate/4.2.0/runtime"],"kg/dpl-adapter/0.0.2/lib/main":["node","base"]});

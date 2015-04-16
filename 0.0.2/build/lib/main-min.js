@@ -1,0 +1,1 @@
+KISSY.add("kg/dpl-adapter/0.0.2/lib/main",["node","base"],function(a,e,n,i){var d=(e("node").all,e("base"));i.exports=d.extend({initializer:function(){}},{ATTRS:{}})});
